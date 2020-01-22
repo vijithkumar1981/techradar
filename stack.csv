@@ -1,0 +1,10 @@
+name,ring,quadrant,isNew,description
+Adobe Experience Manager,Techniques,Hold,FALSE
+Salesforce,Platforms,Adopt,FALSE
+React,languages-and-frameworks,Adopt,FALSE
+SAP Cloud Platform,Platforms,Hold,FALSE
+Salesforce Einstein,Platforms,Assess,FALSE
+Xamarin,languages-and-frameworks,Hold,FALSE
+Micro Front Ends,Techniques,Adopt,FALSE
+Azure DevOps,Platforms,Adopt,FALSE
+ESLint,Tools,Adopt,FALSE
